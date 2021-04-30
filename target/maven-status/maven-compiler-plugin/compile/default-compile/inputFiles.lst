@@ -1,0 +1,15 @@
+D:\OpenSourceWorld\FastDFS-API\src\main\java\pers\liule\fastdfs\api\constant\MultiMediaTypeEnum.java
+D:\OpenSourceWorld\FastDFS-API\src\main\java\pers\liule\fastdfs\api\dto\FileDTO.java
+D:\OpenSourceWorld\FastDFS-API\src\main\java\pers\liule\fastdfs\api\config\FastDfsClientConfiguration.java
+D:\OpenSourceWorld\FastDFS-API\src\main\java\pers\liule\fastdfs\api\validate\MultipartFileValidator.java
+D:\OpenSourceWorld\FastDFS-API\src\main\java\pers\liule\fastdfs\api\constant\FileDfsConstant.java
+D:\OpenSourceWorld\FastDFS-API\src\main\java\pers\liule\fastdfs\api\controller\FileCtrl.java
+D:\OpenSourceWorld\FastDFS-API\src\main\java\pers\liule\fastdfs\api\constant\FileExtendType.java
+D:\OpenSourceWorld\FastDFS-API\src\main\java\pers\liule\fastdfs\api\FastDFSApplication.java
+D:\OpenSourceWorld\FastDFS-API\src\main\java\pers\liule\fastdfs\api\validate\ValidUploadFile.java
+D:\OpenSourceWorld\FastDFS-API\src\main\java\pers\liule\fastdfs\api\constant\FileFormatEnum.java
+D:\OpenSourceWorld\FastDFS-API\src\main\java\pers\liule\fastdfs\api\common\resp\enums\ErrorStatus.java
+D:\OpenSourceWorld\FastDFS-API\src\main\java\pers\liule\fastdfs\api\domain\FastDfsFileDomain.java
+D:\OpenSourceWorld\FastDFS-API\src\main\java\pers\liule\fastdfs\api\common\resp\enums\DfsErrorStatusEnum.java
+D:\OpenSourceWorld\FastDFS-API\src\main\java\pers\liule\fastdfs\api\common\resp\ResponseWrapper.java
+D:\OpenSourceWorld\FastDFS-API\src\main\java\pers\liule\fastdfs\api\service\AbstractFastDfsClient.java

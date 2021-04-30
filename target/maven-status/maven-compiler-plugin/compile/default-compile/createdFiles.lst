@@ -1,0 +1,15 @@
+pers\liule\fastdfs\api\dto\FileDTO.class
+pers\liule\fastdfs\api\constant\FileExtendType.class
+pers\liule\fastdfs\api\constant\MultiMediaTypeEnum.class
+pers\liule\fastdfs\api\validate\MultipartFileValidator.class
+pers\liule\fastdfs\api\validate\ValidUploadFile.class
+pers\liule\fastdfs\api\service\AbstractFastDfsClient.class
+pers\liule\fastdfs\api\constant\FileFormatEnum.class
+pers\liule\fastdfs\api\FastDFSApplication.class
+pers\liule\fastdfs\api\constant\FileDfsConstant.class
+pers\liule\fastdfs\api\common\resp\ResponseWrapper.class
+pers\liule\fastdfs\api\config\FastDfsClientConfiguration.class
+pers\liule\fastdfs\api\common\resp\enums\ErrorStatus.class
+pers\liule\fastdfs\api\controller\FileCtrl.class
+pers\liule\fastdfs\api\common\resp\enums\DfsErrorStatusEnum.class
+pers\liule\fastdfs\api\domain\FastDfsFileDomain.class
